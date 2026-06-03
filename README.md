@@ -1,41 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mohit Negi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Mohit Negi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitnegiprojects&label=Profile%20views&color=0e75b6&style=flat" alt="mohitnegiprojects" /> </p>
+BCA Student at Sri Sukhmani Institute of Engineering and Technology, Mohali  
+Affiliated to IK Gujral Punjab Technical University · 5th Semester
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitnegiprojects" alt="mohitnegiprojects" /></a> </p>
+I'm in the early stages of learning web development — building small projects, making mistakes, and improving one commit at a time.
 
-- 🔭 I’m currently working on [personal-portfolio](https://github.com/mohitnegiprojects/personal-portfolio)
+---
 
-- 🌱 I’m currently learning **React JS,Node JS**
+## 🔧 What I'm working with
 
-- 📫 How to reach me **mohitnegiworks@gmail.com**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohit-negi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-negi20" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/me-mohitnegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me-mohitnegi" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📌 Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitnegiprojects&show_icons=true&locale=en&layout=compact" alt="mohitnegiprojects" /></p>
+| Project | Description | Tech | Live |
+|--------|-------------|------|------|
+| [Personal Portfolio](https://github.com/mohitnegiprojects/personal-portfolio) | My first complete project — a portfolio website built from scratch | HTML, CSS, JS | [View](https://mohitnegiprojects.github.io/personal-portfolio/) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitnegiprojects&show_icons=true&locale=en" alt="mohitnegiprojects" /></p>
-## Hi there 👋
+> More projects coming as I keep learning.
 
-<!--
-**mohitnegiprojects/mohitnegiprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript (DOM manipulation, ES6+)
+- Responsive design and CSS layout techniques
+- Git workflow and version control habits
+- React.js basics (just starting)
+
+---
+
+## 📫 Reach me
+
+- **Email:** mohitnegiworks@gmail.com
+- **LinkedIn:** [linkedin.com/in/mohit-negi20](https://www.linkedin.com/in/mohit-negi20)
+- **Portfolio:** [mohitnegiprojects.github.io/personal-portfolio](https://mohitnegiprojects.github.io/personal-portfolio/)
+- **freeCodeCamp:** [freecodecamp.org/mohit_negi](https://www.freecodecamp.org/mohit_negi)
+
+---
+
+*Open to web development internships · Punjab, India*
