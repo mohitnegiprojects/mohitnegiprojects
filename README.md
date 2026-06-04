@@ -1,4 +1,4 @@
-# Hi, I'm Mohit Negi 👋
+# Hi, I'm Mohit Negi 👋.
 
 BCA Student at Sri Sukhmani Institute of Engineering and Technology, Mohali  
 Affiliated to IK Gujral Punjab Technical University · 5th Semester
