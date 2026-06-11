@@ -22,6 +22,7 @@ I'm in the early stages of learning web development — building small projects,
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
 | [Personal Portfolio](https://github.com/mohitnegiprojects/personal-portfolio) | My first complete project — a portfolio website built from scratch | HTML, CSS, JS | [View](https://mohitnegiprojects.github.io/personal-portfolio/) |
+| [Cafe landing page ](https://github.com/mohitnegiprojects/cafe-landing-page) | A cafe landing page created using HTML for structuring, CSS for styling and JS for working | HTML, CSS, JS | [View](https://mohitnegiprojects.github.io/cafe-landing-page/)
 
 > More projects coming as I keep learning.
 
